@@ -1,0 +1,10 @@
+C:\Users\USUARIO\Desktop\Projects\DefenderRemove\DefenderRemove\bin\Release\DefenderRemove.exe.config
+C:\Users\USUARIO\Desktop\Projects\DefenderRemove\DefenderRemove\bin\Release\DefenderRemove.exe
+C:\Users\USUARIO\Desktop\Projects\DefenderRemove\DefenderRemove\bin\Release\DefenderRemove.pdb
+C:\Users\USUARIO\Desktop\Projects\DefenderRemove\DefenderRemove\obj\Release\DefenderRemove.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Projects\DefenderRemove\DefenderRemove\obj\Release\DefenderRemove.Form1.resources
+C:\Users\USUARIO\Desktop\Projects\DefenderRemove\DefenderRemove\obj\Release\DefenderRemove.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\Projects\DefenderRemove\DefenderRemove\obj\Release\DefenderRemove.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\Projects\DefenderRemove\DefenderRemove\obj\Release\DefenderRemove.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Projects\DefenderRemove\DefenderRemove\obj\Release\DefenderRemove.exe
+C:\Users\USUARIO\Desktop\Projects\DefenderRemove\DefenderRemove\obj\Release\DefenderRemove.pdb
